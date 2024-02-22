@@ -1,2 +1,3 @@
 # Make Git ignore files in subdirectories for data
 PCE_data/
+.vscode/settings.json
